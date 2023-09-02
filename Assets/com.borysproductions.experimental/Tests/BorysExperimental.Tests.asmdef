@@ -1,0 +1,16 @@
+{
+    "name": "BorysExperimental.Tests",
+    "rootNamespace": "BorysExperimental.Tests",
+    "references": [
+        "GUID:aae055b6f55f54b1297517abd29ddaeb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

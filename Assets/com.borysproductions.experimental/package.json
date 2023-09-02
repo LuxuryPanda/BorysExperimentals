@@ -1,0 +1,21 @@
+{
+  "name": "com.borysproductions.experimental",
+  "displayName": "BorysExperimental",
+  "description": "Collection of experimental features, systems, and tools.",
+  "author": "BorysProductions",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "license": "MIT",
+  "keywords": [
+    "experimentals",
+    "tools",
+    "systems"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuxuryPanda/BorysExperimental.git"
+  },
+  "dependencies": {},
+  "samples": [
+  ]
+}

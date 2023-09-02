@@ -1,0 +1,18 @@
+{
+    "name": "BorysExperimental.Editor",
+    "rootNamespace": "BorysExperimental.Editor",
+    "references": [
+        "GUID:aae055b6f55f54b1297517abd29ddaeb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
